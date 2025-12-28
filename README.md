@@ -21,9 +21,6 @@ A robust Java-based command-line application that simulates real-world ATM funct
 
 #👤 Author
 
-NAREAN D
-
-Role : Java Developer
 
 NAREAN D
 
